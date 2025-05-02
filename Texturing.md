@@ -29,8 +29,8 @@ masks. You should make sure that your background images are placed in the direct
 |---00001.png
 |---...
 ```
-We provide a collection of background images that you can download as needed. We recommend you to put them in 
-`data_utility/src/background`, for smoothly using GUI.
+We provide a collection of background images in the repository. They have already been put in 
+`data_utility/src/background`. We recommend you to put your backgrounds in this directory for smoothly using GUI.
 
 ## Usage
 ```
