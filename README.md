@@ -21,7 +21,7 @@ Python:3.8
 PyTorch:1.13.1+cu116 and torchvision 0.14.1+cu116
 
 ## Dependency
-This project contains the modifications of [Segment Anything](https://github.com/facebookresearch/segment-anything), [MaskDINO](https://github.com/IDEA-Research/MaskDINO), [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything), and [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) 
+This project contains the modifications of [Segment Anything](https://github.com/facebookresearch/segment-anything), [MaskDINO](https://github.com/IDEA-Research/MaskDINO), [Grounding-DINO](https://github.com/IDEA-Research/GroundingDINO), and [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) 
 implementations. Please install all dependencies in your environment.
 
 ## Usage
