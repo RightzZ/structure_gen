@@ -3,23 +3,11 @@
 This step allows you to generate models and mask data for various types of plants.
 
 ## Preparation
-### Download [Blender 3.1](https://download.blender.org/release/Blender3.1/)
 
-This project is based on Blender 3.1, and other Blender version's compatibility is unknown. If you want to try other
-versions, please refer to the official API.
+### Install Blender3.1 and lsystem
+Here, we have already prepared Blender3.1 and add lsystem in it, also we adjust some code to generate plant masks
+correctly. Please check Google drive link.
 
-### Install L-system addon to Blender (details are [here](https://github.com/krljg/lsystem))
-
-After installation, you should replace some project files in the Blender and L-system.\
-Please make sure that Blender directory is located at the same level as this project directory.
-```
-<location>
-|---structure_gen
-|---blender-3.1.0-linux-x64
-```
-
-Copy all files from `mask_generation/lsystem_blender/addon` to `(path/to/lsystem)/lsystem`, 
-`mask_generation/lsystem_blender/modules` to `(path/to/blender3.1)/3.1/scripts/modules`
 
 ### Instell xvfb, libXi.so.6
 Blender needs xvfb, libXi.so.6 and libXrender.so.1 to run. Please install xvfb by `apt install xvfb libxi6 libxrender1`.
