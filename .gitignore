@@ -35,3 +35,4 @@ dist/
 *.class
 
 *.lock
+__pycache__/
