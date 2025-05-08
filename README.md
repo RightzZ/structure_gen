@@ -40,3 +40,15 @@ adjusted to ensure seamless workflow between steps.
 
 Alternatively, you can also execute each step via the command line. Detailed instructions for each step are provided in 
 the corresponding README documents. 
+
+## Dockerfile
+Of course, if you want to automatically create a ready-to-use Docker container, you can use the configuration files 
+included in the project.
+```
+cd Docker
+chmod +x build.sh run.sh # add permissions
+build.sh
+run.sh
+```
+After this, a container will be automatically created with Miniconda installed inside. An environment named `sgen` will
+be configured, and PyTorch will be installed automatically. Other dependencies still need to be installed manually.
