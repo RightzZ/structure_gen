@@ -51,4 +51,5 @@ build.sh
 run.sh
 ```
 After this, a container will be automatically created with Miniconda installed inside. An environment named `sgen` will
-be configured, and PyTorch will be installed automatically. Other dependencies still need to be installed manually.
+be configured, and PyTorch, Gradio will be installed automatically. The local port 8888 will be bound to port 8888 inside
+the container, allowing external access to the Gradio interface. Other dependencies still need to be installed manually.
