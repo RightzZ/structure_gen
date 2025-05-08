@@ -1,1 +1,2 @@
-docker build -t structure_gen .
+IMAGE_NAME="structure_gen"
+docker build -t $IMAGE_NAME .
