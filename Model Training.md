@@ -11,6 +11,11 @@ Also, please ensure that your images are correctly numbered.
 |---000001.png
 |---...
 ```
+
+Also, we found that transformer's version should be downgraded since we use cuda 11.6 and pytorch 1.13.1.
+```angular2html
+pip install transformers==4.27.4
+```
 ## Usage
 
 ### Mask Generation
