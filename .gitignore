@@ -25,6 +25,7 @@ plant_mask_data/
 *.bak
 
 data_utility/src/syn_plant/plant
+data_utility/segmentation
 mask_generation/proc/texturing/pix2pix/ckpt
 
 .DS_Store
