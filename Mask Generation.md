@@ -6,7 +6,7 @@ This step allows you to generate models and mask data for various types of plant
 
 ### Install Blender3.1 and lsystem
 Here, we have already prepared Blender3.1 and add lsystem in it, also we adjust some code to generate plant masks
-correctly. Please download it from Google Drive. Make sure to place it in the same directory as the `structure_gen` folder.
+correctly. Please download it from [Google Drive](https://drive.google.com/drive/folders/1CAJO_6fCz9FCR5cTWfm2vWF0cfmDUmDX). Make sure to place it in the same directory as the `structure_gen` folder.
 
 
 ### Instell xvfb, libXi.so.6

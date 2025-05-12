@@ -3,6 +3,7 @@
 ## Introduction
 This is a project about Plants & AI, featuring multiple functionalities.
 
+(The paper will be released on arXiv soon)
 
 Therefore, based on this paper, the project offers the following features:
 

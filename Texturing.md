@@ -6,7 +6,7 @@ with the pre-trained plant models.
 Please ensure that you have completed training the Pix2Pix model with real plant images, and that the plant masks have
 been properly generated and processed in the preceding steps.
 
-We have already trained a model for the hawthorn, amodal and komatsuna species, which you can download from Google Drive 
+We have already trained a model for the hawthorn, amodal and komatsuna species, which you can download from [Google Drive](https://drive.google.com/drive/folders/1CAJO_6fCz9FCR5cTWfm2vWF0cfmDUmDX) 
 and use.
 Please put the model in `mask_generation/proc/texturing/pix2pix/ckpt`. Besides, if you want to use your own .pth
 model, please put in the same directory with the species name.(e.g. `ckpt/komatsuna`)
