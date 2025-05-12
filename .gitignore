@@ -24,6 +24,9 @@ plant_mask_data/
 *.blend1
 *.bak
 
+data_utility/src/syn_plant/plant
+mask_generation/proc/texturing/pix2pix/ckpt
+
 .DS_Store
 Thumbs.db
 
