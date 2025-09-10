@@ -3,9 +3,11 @@
 ## Introduction
 This is a project about Plants & AI, featuring multiple functionalities.
 
-(The paper will be released on arXiv soon)
+Title: LeafGen: Structure-aware Leaf Image Generation for Annotation-free Leaf Instance Segmentation
 
-Therefore, based on this paper, the project offers the following features:
+(The paper has been accepted and will release soon)
+
+Based on this paper, the project offers the following features:
 
 - Model Training: Train a model for plant sample generation based on the Pix2Pix framework.
 - Mask Generation: Generate a series of 3D plant models using Blender and L-system, along with corresponding asks for 
