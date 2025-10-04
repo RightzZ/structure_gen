@@ -3,9 +3,7 @@
 ## Introduction
 This is a project about Plants & AI, featuring multiple functionalities.
 
-Title: LeafGen: Structure-aware Leaf Image Generation for Annotation-free Leaf Instance Segmentation
-
-(The paper has been accepted and will release soon)
+Title: [LeafGen: Structure-aware Leaf Image Generation for Annotation-free Leaf Instance Segmentation](https://www.sciencedirect.com/science/article/pii/S2643651525000986)
 
 Based on this paper, the project offers the following features:
 
